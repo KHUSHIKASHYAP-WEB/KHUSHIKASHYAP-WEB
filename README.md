@@ -5,9 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Khushi-green)](https://khushikashyap-web.github.io/MyPortfolio/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Khushi-yellow)](https://stackoverflow.com/users/19369127/khushi-kashyap-)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm a technology enthusiast and 3rd year B-tech. CSE student with a deep. interest in Full Stack Development and UX/UI. The crossover between design and programming has always been of interest to me. I love leaning new skills and the idea of sharing it with others is fundamental to my learning journey. Some my skills include JavaScript, HTML, CSS, BOOTSTRAP, NodeJS, MongoDB, C++, C, Java.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/KHUSHIKASHYAP-WEB/count.svg)
