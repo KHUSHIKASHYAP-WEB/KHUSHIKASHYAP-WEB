@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Khushi-green)](https://khushikashyap-web.github.io/MyPortfolio/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Khushi-yellow)](https://stackoverflow.com/users/19369127/khushi-kashyap-)
 
-I'm a technology enthusiast and a 3rd year B-tech. CSE student with a deep interest in Full Stack Development and UX/UI. The crossover between design and programming has always been of interest to me. I love learning new skills and the idea of sharing it with others is fundamental to my learning journey. Some OF my skills include JavaScript, HTML, CSS, BOOTSTRAP, NodeJS, MongoDB, C++, C, Java.
+I'm a technology enthusiast and a 3rd year B-tech. CSE student with a deep interest in Full Stack Development and UX/UI. The crossover between design and programming has always been of interest to me. I love learning new skills and the idea of sharing it with others is fundamental to my learning journey. Some OF my skills include JavaScript, HTML, CSS5, BOOTSTRAP5, NodeJS, MongoDB, C++, C, Java.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/KHUSHIKASHYAP-WEB/count.svg)
